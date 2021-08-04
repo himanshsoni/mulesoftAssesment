@@ -1,2 +1,3 @@
-# mulesoftAssesment
-# If not working in Vscode or other IDE  Try running demo.py(CODE)  in Jupyter Notebook .
+# MulesoftAssesment
+#Main Code in demo.py
+# If not working in Vscode or other IDE  Try running demo.py's code  in Jupyter Notebook .
